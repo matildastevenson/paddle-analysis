@@ -1,0 +1,132 @@
+---
+title: "NSW Entry analysis"
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    df_print: kable
+    fig_width: 6
+    fig_height: 2.5
+params:
+  path: ""
+
+---
+
+```{r setup2, echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, cache = FALSE, dev="cairo_pdf")
+```
+
+# Entries
+```{r, results='asis'}
+source('entry_analysis_functions.R')
+# Load the entries
+if (params$path == "") {
+  entries <- read_entries('entry_lists/Attendees - 2022 PaddleNSW Marathon Series - Race 1 - Oura to Wagga (Downstream, all the way !!) (1).csv')
+
+} else {
+  entries <- read_entries(params$path)
+}
+
+adults <- entries %>%
+  filter(!str_detect(division_entered, "Junior")) %>%
+  rowwise() %>%
+  mutate(
+    ranking = ifelse(str_detect(division_entered, "ranking"), TRUE, FALSE),
+    division_entered = as.numeric(str_match(division_entered, "[0-9]*")[,1])
+  ) %>% 
+  ungroup()
+
+juniors <- entries %>%
+  filter(str_detect(division_entered, "Junior"))
+
+# How many entries
+cat(paste0("There are ", adults %>% filter(partner == "") %>% nrow(),
+           " people entered in adult singles, ",
+           adults %>% filter(partner != "") %>% nrow(),
+           " people entered in adult doubles, ",
+           juniors %>% filter(partner == "") %>% nrow(),
+           " in junior singles, and ",
+           juniors %>% filter(partner != "") %>% nrow(),
+           " in junior doubles."))
+```
+
+
+# Adult singles
+Paddlers who have entered a lower division than their ranking:
+```{r}
+single_divs <- read.csv('current_paddler_divs/singles.csv') %>%
+  tibble() %>% 
+  select(first_name, last_name = surname, div) %>% 
+  mutate(
+    first_name = str_to_title(str_trim(first_name)),
+      last_name = str_to_title(str_trim(last_name))
+  ) %>% 
+  filter(!is.na(div))
+
+too_high <- adults %>% 
+  filter(partner == "") %>% 
+  left_join(single_divs, by = c("first_name", "last_name")) %>% 
+  filter(division_entered > div, ranking == "FALSE")
+
+too_high
+
+```
+
+Paddlers who are not ranked and haven't entered a ranking race:
+```{r}
+unranked <- adults %>% 
+  filter(partner == "") %>% 
+  left_join(single_divs, by = c("first_name", "last_name")) %>% 
+  filter(is.na(div), ranking == "FALSE")
+
+unranked
+```
+
+# Adult doubles
+Paddlers whose partner has not entered: 
+```{r}
+doubles <- adults %>%
+  filter(partner != "")
+
+
+
+```
+
+# Create the default entry list
+```{r}
+manual_entries <- read.csv('entry_lists/manual/wagga_2022.csv') %>% 
+    janitor::clean_names() 
+
+# Make doubles easier to copy across  
+doubles %>% 
+  rowwise() %>% 
+  mutate(first_name = paste(first_name, last_name),
+         last_name = partner,
+         age = NA,
+          ) %>% 
+  filter(!(first_name %in% manual_entries$first_name || first_name %in% manual_entries$last_name)) %>% 
+  select(first_name, last_name, age, gender, email_address, entry_category, club, boat_type) %>% 
+  write.csv('entry_lists/wagga_temp_doubles.csv', row.names = FALSE)
+
+final_entries <- bind_rows(
+  adults %>% 
+  filter(partner == "") %>% 
+  anti_join(unranked, by = c("first_name", "last_name")) %>% 
+  anti_join(too_high, by = c("first_name", "last_name")) %>% 
+  anti_join(manual_entries, by = c("first_name", "last_name")),
+  unranked %>% 
+    rowwise() %>% 
+    mutate(entry_category = div_to_ranking(entry_category)) %>% 
+    ungroup(),
+  manual_entries
+) %>%
+    create_ws_entry_list()
+
+```
+
+
+# Create entry list for fb
+```{r}
+fb_entries <- final_entries %>% 
+  select(-Age, -Gender, -Email)
+write.csv(fb_entries, row.names = FALSE, file = 'entry_lists/wagga_fb_update.csv')
+```

@@ -1,0 +1,551 @@
+paddler_id,first_name,surname,div,prev_div_not_8_or_13,date_of_last_race,first_slow,first_fast,double
+NA,James Harrington,Brett Greenwood,1,NA,23/05/2021,NA,NA,TRUE
+12621,Aidan Shipton,Brett Jones,1,NA,NA,NA,NA,TRUE
+NA,Brett Greenwood,Brett McDonald,1,NA,14/04/2019,NA,NA,TRUE
+NA,Cameron Tunbridge,Brett Worth,1,NA,10/04/2021,NA,NA,TRUE
+13306,Scott Harris,Bryce Woodhouse,1,NA,NA,NA,NA,TRUE
+NA,Shane Tagliabue,Cameron Tunbridge,1,NA,2/05/2021,NA,NA,TRUE
+NA,Naomi Johnson,Catherine Atkinson,1,NA,23/05/2021,NA,NA,TRUE
+NA,Michael Hanemaayer,Craig Elliott,1,NA,14/04/2019,NA,NA,TRUE
+NA,Dmytro Medvedyev,Daniela Angela Torre,1,NA,14/04/2019,NA,NA,TRUE
+NA,Lachlan Bakewell,Darren Lee,1,NA,14/04/2019,NA,NA,TRUE
+12811,Sampson Hollywood,Dion Carter,1,NA,NA,NA,NA,TRUE
+NA,James Pralija,Dmytro Medvedyev,1,NA,23/05/2021,NA,NA,TRUE
+NA,John Young,Dominic Scarfe,1,NA,NA,NA,NA,TRUE
+11221,Michael O'Leary,Gene Burns,1,NA,NA,NA,NA,TRUE
+NA,James Harrington,James Pralija,1,NA,14/04/2019,NA,NA,TRUE
+NA,Peter Manley,James Pralija,1,NA,NA,NA,NA,TRUE
+NA,Jason Ware,Jared Thompson,1,NA,NA,NA,NA,TRUE
+NA,Peter Hughes,Kieran Babich,1,NA,14/04/2019,NA,NA,TRUE
+NA,Peter Manley,Kieran Babich,1,NA,23/05/2021,NA,NA,TRUE
+NA,Naomi Johnson,Laura Lee,1,NA,14/07/2019,NA,NA,TRUE
+NA,Andrew Wilkinson,Luke Eltham,1,NA,14/04/2019,NA,NA,TRUE
+NA,Montannah Murray,Mathew Barnes,1,NA,23/05/2021,NA,NA,TRUE
+NA,Naomi Johnson,Matilda Stevenson,1,NA,28/03/2021,NA,NA,TRUE
+NA,Robert Chant,Matt Windon,1,NA,23/06/2019,NA,NA,TRUE
+NA,Matt Windon,Michael O'Leary,1,NA,8/08/2020,NA,NA,TRUE
+NA,Scott Tyers,Mick Leverett,1,NA,28/03/2021,NA,NA,TRUE
+NA,Jason Ware,Mitchell Coffey,1,NA,23/05/2021,NA,NA,TRUE
+NA,"Alanna Ewin, Tony Hystek","Naomi Johnson, Pauline Findlay",1,NA,2/05/2021,NA,NA,TRUE
+NA,Dion Carter,Paul Burton,1,NA,17/04/2021,NA,NA,TRUE
+NA,Brendan Trewartha,Peter Fitzgerald,1,NA,NA,NA,NA,TRUE
+NA,Trevor Nichols,Peter Fitzgerald,1,NA,23/05/2021,NA,NA,TRUE
+NA,Jason Ware,Peter Hughes,1,NA,NA,NA,NA,TRUE
+NA,David Young,Peter Manley,1,NA,NA,NA,NA,TRUE
+NA,Tim Binns,Peter Manley,1,NA,14/04/2019,NA,NA,TRUE
+NA,Cameron Tunbridge,Ronald Gene Burns,1,NA,NA,NA,NA,TRUE
+NA,James Pralija,Russell Wood,1,NA,28/03/2021,NA,NA,TRUE
+NA,Ray Baxter,Shane Tagliabue,1,NA,NA,NA,NA,TRUE
+NA,Gary Reed,Steven Sey,1,NA,23/05/2021,NA,NA,TRUE
+NA,Mitch Coffey,Suzie Rhydderch,1,NA,NA,NA,NA,TRUE
+NA,James Pralija,Tim Binns,1,NA,NA,NA,NA,TRUE
+NA,Matt Windon,Todd Mowbray,1,NA,14/07/2019,NA,NA,TRUE
+11398,Pieter Boer,Todd Mowbray,1,NA,NA,NA,NA,TRUE
+NA,Brendan Trewartha,Trevor Nichols,1,NA,14/04/2019,NA,NA,TRUE
+NA,Mario Vesely,Nicci Vesely,1,NA,23/03/2019,NA,NA,TRUE
+11957,Mario Vesely,Ziko Vesely,1,NA,28/03/2021,NA,NA,TRUE
+NA,Richard Fox,Andrew Parkinson,2,NA,23/05/2021,NA,NA,TRUE
+13069,Michael Oleary,Bryce Woodhouse,2,NA,NA,NA,NA,TRUE
+NA,Stephen Morrow,Campbell Saunders,2,NA,NA,NA,NA,TRUE
+NA,Emily O'Rourke,Daniela Torre,2,NA,28/03/2021,NA,NA,TRUE
+NA,Laura Lee,Daniela Torre,2,NA,23/05/2021,NA,NA,TRUE
+12581,Pauline Findlay,David Little,2,NA,24/08/2019,NA,NA,TRUE
+NA,Tim Hookins,Don Johnstone,2,NA,14/04/2019,NA,NA,TRUE
+NA,Peter Faherty,Gareth Stokes,2,NA,NA,NA,NA,TRUE
+12689,Michael O'Leary,Geoff Baggett,2,NA,NA,NA,NA,TRUE
+NA,Sally Verheul,Gene Burns,2,NA,2/05/2021,NA,NA,TRUE
+13083,Russell Wood,Jeremy Kent,2,NA,NA,NA,NA,TRUE
+13206,Matt Miles,Jeremy Kent,2,NA,NA,NA,NA,TRUE
+12573,Brendan Cowled,John Dick,2,NA,NA,NA,NA,TRUE
+NA,Michael Lieberman,Karen Hadjinicola,2,NA,23/05/2021,NA,NA,TRUE
+NA,Caroline Marschner,Mark Hempel,2,NA,14/04/2019,NA,NA,TRUE
+10149,Michael OLeary,Michael Emery,2,NA,NA,NA,NA,TRUE
+NA,Peter Ryce,Michael Oleary,2,NA,NA,NA,NA,TRUE
+NA,Murray Dell,Mick Carroll,2,NA,23/05/2021,NA,NA,TRUE
+13284,Glenn Skardon,Peter Holz,2,NA,NA,NA,NA,TRUE
+NA,Todd Mowbray,Peter Ryce,2,NA,23/06/2019,NA,NA,TRUE
+9400,Russell Lutton,Richard Fox,2,NA,NA,NA,NA,TRUE
+10227,Scott Harris,Rob Hardy,2,NA,NA,NA,NA,TRUE
+NA,Andrew Parkinson,Russell Lutton,2,9,23/06/2019,NA,NA,TRUE
+13068,Craig Elliott,Russell Lutton,2,NA,NA,NA,NA,TRUE
+NA,Scott Tyers,Stephen Shelley,2,NA,14/04/2019,NA,NA,TRUE
+NA,Jeff Hosnell,Tim Binns,2,NA,23/05/2021,NA,NA,TRUE
+12569,Alanna Ewin,Tony Hystek,2,NA,22/02/2021,NA,NA,TRUE
+13089,Bernie Craggs,Warwick Nichols,2,NA,NA,NA,NA,TRUE
+NA,Naomi Johnson,Alex Brown,3,NA,NA,NA,NA,TRUE
+13211,David Young,Allison Bilbow,3,NA,23/05/2021,NA,NA,TRUE
+13307,Gary Davie,April Davie,3,NA,NA,NA,NA,TRUE
+13133,Bruce Sherlock,Ben Constable,3,NA,NA,NA,NA,TRUE
+NA,Timothy Harrington,Chris Dickman,3,NA,23/05/2021,NA,NA,TRUE
+NA,Pauline Findlay,Fiona Rae,3,NA,23/05/2021,NA,NA,TRUE
+NA,Don Johnstone,Jeff Hosnell,3,NA,NA,NA,NA,TRUE
+NA,Duncan Johnstone,Jeff Hosnell,3,NA,27/04/2019,NA,NA,TRUE
+12606,Stuart Reid,Johanna Diment,3,NA,NA,NA,NA,TRUE
+12698,Terry Reilly,Jonathan Papalia,3,NA,NA,NA,NA,TRUE
+NA,Jeff Hosnell,Karen Hadjinicola,3,NA,28/03/2021,NA,NA,TRUE
+11848,Stephen Monger,Karen Schofield,3,NA,10/04/2021,NA,NA,TRUE
+NA,Emily O'Rourke,Maddie Lamb,3,NA,14/04/2019,NA,NA,TRUE
+12012,Duncan Johnstone,Matt Swann,3,NA,NA,NA,NA,TRUE
+NA,David Lowe,Matthew Lowe,3,NA,23/05/2021,NA,NA,TRUE
+NA,Scott Harris,Matthew Swann,3,NA,23/05/2021,NA,NA,TRUE
+NA,Lee Anne Andersen,Nigel Carson,3,9,2/05/2021,NA,NA,TRUE
+13132,Peter Ryce,Paul Millett,3,NA,NA,NA,NA,TRUE
+NA,Craig Salkeld,Peter Fitzgerald,3,NA,NA,NA,NA,TRUE
+NA,Alanna Ewin,Richard Barnes,3,NA,14/04/2019,NA,NA,TRUE
+12761,Ian Dawes,Richard Barnes,3,NA,NA,NA,NA,TRUE
+11121,Terry Reilly,Rob Hardy,3,9,24/08/2019,NA,NA,TRUE
+10064,Scott Harris,Russell Walker,3,NA,NA,NA,NA,TRUE
+NA,Geoff Baggett,Scott Harris,3,NA,NA,NA,NA,TRUE
+9691,Scott Harris,Terry Reilly,3,NA,8/08/2020,NA,NA,TRUE
+NA,Richard Yates,Tony D'Andreti,3,NA,23/05/2021,NA,NA,TRUE
+13122,Greg Morris,Warwick Sherwood,3,NA,13/06/2021,NA,NA,TRUE
+NA,Mario Lendvai,Andrew Pratley,4,NA,23/05/2021,NA,NA,TRUE
+12664,Richard Barnes,Andy Halliday,4,NA,NA,NA,NA,TRUE
+12748,Suzie Rhydderch,Anjie Lees,4,NA,NA,NA,NA,TRUE
+NA,Anne Moore,Bernie Craggs,4,NA,NA,NA,NA,TRUE
+NA,Sally Verheul,Bernie Craggs,4,NA,14/04/2019,NA,NA,TRUE
+10677,Ross Bingle,Robyn Bingle,4,NA,3/08/2019,NA,NA,TRUE
+8785,Patricia Ashton,Bob Collins,4,NA,17/04/2021,NA,NA,TRUE
+NA,Guy Holloway,Charly Wellard,4,NA,NA,NA,NA,TRUE
+6902,Marg Cook,Rob Cook,4,NA,23/05/2021,NA,NA,TRUE
+NA,Duncan Johnstone,Craig Ellis,4,NA,23/05/2021,NA,NA,TRUE
+NA,Darren Williams,Craig Salkeld,4,NA,23/05/2021,NA,NA,TRUE
+NA,Richard Andrews,Daniel Dalton,4,NA,23/05/2021,NA,NA,TRUE
+NA,Graham Cleland,Darren Williams,4,NA,NA,NA,NA,TRUE
+13131,Ayan Mukherjee,Elizabeth Pratt,4,NA,NA,NA,NA,TRUE
+12605,Suzie Rhydderch,Gaye Hatfield,4,NA,NA,NA,NA,TRUE
+5641,Alan Keith,Geoff Forward,4,NA,14/07/2019,NA,NA,TRUE
+NA,Greg Thompson,Graham Coffey,4,NA,23/05/2021,NA,NA,TRUE
+NA,Kristy Benjamin,Greg Archibald,4,NA,NA,NA,NA,TRUE
+NA,Sally Verheul,Greg Hillier,4,NA,NA,NA,NA,TRUE
+NA,Robyn Bingle,John Denyer,4,NA,14/04/2019,NA,NA,TRUE
+11123,Ross Fraser,Ken Holmes,4,NA,NA,NA,NA,TRUE
+13128,Tony D'Andreti,Kim Navera,4,NA,NA,NA,NA,TRUE
+13466,Steve Dawson,Lizzy Fowler,4,NA,NA,NA,NA,TRUE
+NA,Russell Walker,Rob Hardy,4,NA,14/04/2019,NA,NA,TRUE
+NA,John Rowberry,Robert Hiley,4,NA,NA,NA,NA,TRUE
+NA,Raewyn Duffy,Alison Curtin,5,NA,NA,NA,NA,TRUE
+NA,Shannon Duffy,Allan Keith,5,NA,NA,NA,NA,TRUE
+NA,Alanna Ewin,Allison Bilbow,5,NA,NA,NA,NA,TRUE
+NA,Danielle Winslow,Bob Collins,5,NA,13/06/2021,NA,NA,TRUE
+9410,Michael Kerr,Clare Monger,5,NA,NA,NA,NA,TRUE
+NA,Bernie Edstein,Darren Forbes,5,NA,NA,NA,NA,TRUE
+NA,Tim McNamara,Derek Simmonds,5,NA,23/05/2021,NA,NA,TRUE
+12817,Tim McNamara,Don Rowston,5,NA,NA,NA,NA,TRUE
+13282,Kayelf Foster,Kris Foster,5,NA,10/04/2021,NA,NA,TRUE
+6899,Warren Huxley,Meridy Huxley,5,NA,NA,NA,NA,TRUE
+9401,Greg Archibald,Ian Mcguiness,5,NA,NA,NA,NA,TRUE
+NA,Stephen Routley,James Miller,5,NA,28/03/2021,NA,NA,TRUE
+11194,Don Rowston,Jeff Collins,5,NA,NA,NA,NA,TRUE
+5767,Don Rowston,Jon Harris,5,NA,NA,NA,NA,TRUE
+NA,Gaye Foster,Julia Ong,5,NA,14/04/2019,NA,NA,TRUE
+5589,Dallas Newman,Lorraine Harper-Horak,5,NA,24/08/2019,NA,NA,TRUE
+NA,Alexander Zeller,Matthew Shadwell,5,NA,NA,NA,NA,TRUE
+6676,Ian McGuinness,Suzanne McGuinness,5,10,6/03/2021,NA,NA,TRUE
+NA,Angela Farrell,Nikki Duke,5,NA,NA,NA,NA,TRUE
+13215,Paul Grundy,Peter Tedesco,5,NA,NA,NA,NA,TRUE
+12111,Anne Moore,Sue Smith,5,NA,NA,NA,NA,TRUE
+12762,Brad Hughes,Tony d'Andreti,5,NA,NA,NA,NA,TRUE
+NA,Helen Tongway,Bob Collins,6,NA,NA,NA,NA,TRUE
+13283,Raewyn Duffy,Campbell Tiley,6,NA,NA,NA,NA,TRUE
+8684,Steve Dawson,Kate Dawson,6,3,23/03/2019,NA,NA,TRUE
+13210,Neil Duffy,Megan Duffy,6,NA,NA,NA,NA,TRUE
+5436,Philip Bellamy,Graham Matts,6,NA,23/05/2021,NA,NA,TRUE
+NA,Elisabeth Woodhart O'farrell,Greg Archibald,6,9,NA,NA,NA,TRUE
+11183,Anjie Lees,Meg Thornton,6,NA,NA,NA,NA,TRUE
+12823,Linden Barnes,Richard Barnes,6,NA,23/05/2021,NA,NA,TRUE
+11961,Don Rowston,Harry Rowston,6,NA,NA,NA,NA,TRUE
+12808,David Abela,Scott MacWilliam,6,10,20/03/2021,NA,NA,TRUE
+10651,Geoff Pickup,Helen Tongway,7,NA,NA,NA,NA,TRUE
+13465,Kim Navera,Jennifer Tjoe,7,10,24/08/2019,NA,NA,TRUE
+12663,James Johnson,John Bowe,7,NA,NA,NA,NA,TRUE
+13469,Benjamin Kelly,Kevin Kelly,7,NA,NA,NA,NA,TRUE
+NA,Rachel Grant,Merry Sugiarto,7,NA,NA,NA,NA,TRUE
+11397,Helen Tongway,David Tongway,7,NA,23/05/2021,NA,NA,TRUE
+NA,Peter Harper,Anthony Smith,8,nothing in last 2 years,28/03/2021,NA,NA,TRUE
+NA,Elisabeth Woodhart O'farrell,Bob Turner,8,nothing in last 2 years,NA,NA,NA,TRUE
+9258,Peter Murphy,Bruce Graham,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Andrew Giardini,Bruce Sherlock,8,nothing in last 2 years,14/04/2019,NA,NA,TRUE
+8685,Michael New,Carl Duggan,8,nothing in last 2 years,NA,NA,NA,TRUE
+13200,Suzanne Martin,Ciaran Monks,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Margi Bohm,Craig Elliott,8,nothing in last 2 years,23/05/2021,NA,NA,TRUE
+NA,Bob Turner,Debra Buchan,8,nothing in last 2 years,NA,NA,NA,TRUE
+13209,Peter Connolly,Denby Moylan,8,6,3/08/2019,NA,NA,TRUE
+NA,Dion Carter,Damien Searle,8,nothing in last 2 years,1/06/2019,NA,NA,TRUE
+5672,Rhonda Lowe,Dorothy Price,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Geoff Eldridge,Esther Wheeler,8,11,13/06/2021,NA,NA,TRUE
+12564,Susan Fine,Marone Fine,8,9,NA,NA,NA,TRUE
+NA,Bob Turner,Gareth Stokes,8,nothing in last 2 years,28/03/2021,NA,NA,TRUE
+12685,Susan Fine,Gaye Foster,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Albert Cobb,Geoff Dawes,8,4,13/06/2021,NA,NA,TRUE
+NA,Teresa Harvey,Graham Matts,8,nothing in last 2 years,14/04/2019,NA,NA,TRUE
+12003,John Denyer,Greg Archibald,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Sue Smith,Greg Hillier,8,4,13/06/2021,NA,NA,TRUE
+NA,Don Johnstone,Harry Janecek,8,nothing in last 2 years,23/05/2021,NA,NA,TRUE
+13212,Stephanie Vounou,Henson Chau,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Jeff Collins,James Farrell,8,nothing in last 2 years,23/05/2021,NA,NA,TRUE
+13201,Jason Han,Jennifer Tjoe,8,nothing in last 2 years,NA,NA,NA,TRUE
+12660,Sue Mueller,Jenny Listberger,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Jack Jessen,Jeremy Cook,8,nothing in last 2 years,14/04/2019,NA,NA,TRUE
+NA,Gonda Kellermann,Charl Kellermann,8,nothing in last 2 years,17/04/2021,NA,NA,TRUE
+8787,Bob Turner,Kristy Benjamin,8,NA,NA,NA,NA,TRUE
+13326,Grant Epple,Linda Burnett,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Bruce Sherlock,Lis Woodhart O'farrell,8,9,24/08/2019,NA,NA,TRUE
+NA,Andrew Parkinson,Luke Willsmore,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Patricia Ashton,Margi Bohm,8,nothing in last 2 years,27/04/2019,NA,NA,TRUE
+NA,Mitchell O'Loughlin,Matthew Dunbar,8,nothing in last 2 years,NA,NA,NA,TRUE
+12814,Jamie McCrudden,Addisyn McCrudden,8,9,NA,NA,NA,TRUE
+NA,Emily Stewart-Reed,Michael Reed,8,nothing in last 2 years,27/04/2019,NA,NA,TRUE
+NA,Ray Baxter,Mike Wilson,8,nothing in last 2 years,24/08/2019,NA,NA,TRUE
+12753,Elizabeth Van Reece,Murray Reece,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Dion Carter,Paul Grey,8,nothing in last 2 years,27/04/2019,NA,NA,TRUE
+NA,Sue Fine,Peter Clyne,8,nothing in last 2 years,14/04/2019,NA,NA,TRUE
+8109,Jenny McIlquham,Peter Murphy,8,nothing in last 2 years,20/03/2021,NA,NA,TRUE
+13467,Jen Portman,Matt Portman,8,nothing in last 2 years,NA,NA,NA,TRUE
+13438,Siv Teh,Raymond Teh,8,nothing in last 2 years,NA,NA,NA,TRUE
+12681,Albert Chu,Raymond Teh,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,David Barnes,Richard Barnes,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Jonathan Taylor,Richard Bontjer,8,nothing in last 2 years,14/04/2019,NA,NA,TRUE
+NA,Joy Robinson,Richard Robinson,8,9,23/06/2019,NA,NA,TRUE
+13126,Steve Hill,Ross Fraser,8,9,NA,NA,NA,TRUE
+NA,Patricia Ashton,Russell Lutton,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Rob Wilson,Russell Lutton,8,nothing in last 2 years,23/03/2019,NA,NA,TRUE
+12570,"Ryce, Peter","Ryce, Patrick",8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Tibor Semetka,Scott Tyers,8,nothing in last 2 years,NA,NA,NA,TRUE
+13123,Sue Mueller,Susan Strath,8,nothing in last 2 years,NA,NA,NA,TRUE
+13196,Scott Harris,Susan Strath,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Theresa Bray,Suzanne Martin,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Jana Osvald,Tim McNamara,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Jeremy Cook,Tom Layton,8,nothing in last 2 years,23/05/2021,NA,NA,TRUE
+NA,Phillip Geddes,Tom Simmat,8,nothing in last 2 years,14/04/2019,NA,NA,TRUE
+NA,Tim Hookins,Tom Simmat,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Carlito Vesely,Nicci Vesely,8,NA,28/03/2021,NA,NA,TRUE
+NA,Stephen Wade,Warwick Nichols,8,nothing in last 2 years,24/08/2019,NA,NA,TRUE
+NA,Gina Weekes,Ray Weekes,8,nothing in last 2 years,10/04/2021,NA,NA,TRUE
+13291,Uyen Dang,Wei Ling Ng,8,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Kerrie Murphy,Wendy Andrews,8,nothing in last 2 years,NA,NA,NA,TRUE
+12697,Graham Matts,William Edwards,8,nothing in last 2 years,NA,NA,NA,TRUE
+13301,Bruce Taylor,Barbara Davies,9,NA,NA,NA,NA,TRUE
+NA,Michael Keenan,Bradley Field,9,NA,NA,NA,NA,TRUE
+NA,Debra Buchan,Jeff Buchan,9,4,17/04/2021,NA,NA,TRUE
+NA,Alex Conley,Charlie Heaton-Armstrong,9,NA,3/08/2019,NA,NA,TRUE
+NA,Michael Lieberman,Chris Dickman,9,NA,14/04/2019,NA,NA,TRUE
+5474,Bruce Clark,Joan Clark,9,NA,NA,NA,NA,TRUE
+NA,Neil Crabb,Clayton Norman,9,NA,NA,NA,NA,TRUE
+NA,Melissa Crocker,"Glenn Smyth, Neil Jones, Mark Price, Chris Hall, Graham Walsh, Casandra Nattrass, Helen Steele, Michaela Fountain, Patrick McMullen",9,NA,NA,NA,NA,TRUE
+NA,Dominic Hides,David Pammenter,9,NA,14/04/2019,NA,NA,TRUE
+NA,John Mollard,Greg Archibald,9,NA,NA,NA,NA,TRUE
+NA,Liam Dohnt,Guy Robinson,9,NA,14/04/2019,NA,NA,TRUE
+NA,Heidi Duncan,Guy Fiddes,9,NA,14/04/2019,NA,NA,TRUE
+NA,Kevin Moore,Hils Lamb,9,NA,NA,NA,NA,TRUE
+NA,Len Hedges,Ian Triplett,9,NA,23/05/2021,NA,NA,TRUE
+NA,Elisabeth Woodhart O'farrell,Jeff Buchan,9,NA,NA,NA,NA,TRUE
+NA,Petr Balcarek,John Burkett,9,NA,23/05/2021,NA,NA,TRUE
+NA,Gary Rake,John Preston,9,NA,14/04/2019,NA,NA,TRUE
+NA,Greg Sutcliffe,Jonathan Tucker,9,NA,27/04/2019,NA,NA,TRUE
+NA,Paul Grey,Karelle Johnson,9,NA,NA,NA,NA,TRUE
+NA,John Denyer,Kim Navera,9,NA,23/05/2021,NA,NA,TRUE
+NA,Annabella Dorsman,Lachlan Stokes,9,NA,14/04/2019,NA,NA,TRUE
+NA,Matt Blundell,Liberty Blundell,9,NA,24/08/2019,NA,NA,TRUE
+NA,Stephanie Rake,Liz Muldoon,9,NA,27/04/2019,NA,NA,TRUE
+10684,Clare Lutton,Russell Lutton,9,NA,NA,NA,NA,TRUE
+NA,Sebastian Marczak,Marcelo Cabezas,9,NA,NA,NA,NA,TRUE
+NA,Carlito Vesely,Mario Vesely,9,NA,14/04/2019,NA,NA,TRUE
+NA,Bruce Goodall,Matthew Swann,9,NA,NA,NA,NA,TRUE
+13129,Jamie McCrudden,Keeley McCrudden,9,NA,NA,NA,NA,TRUE
+NA,Todd Mowbray,Charles Mowbray,9,NA,NA,NA,NA,TRUE
+6654,Anne Moore,Owen Walton,9,NA,14/04/2019,NA,NA,TRUE
+NA,David Veivers,Paul Burges,9,NA,NA,NA,NA,TRUE
+9408,Roy Willis,Peter Fane,9,4,27/04/2019,NA,NA,TRUE
+NA,Gary Mears,Peter McGee,9,NA,NA,NA,NA,TRUE
+13461,Jack Ward,Peter McGee,9,NA,NA,NA,NA,TRUE
+NA,Duncan Johnstone,Phillip Geddes,9,NA,NA,NA,NA,TRUE
+NA,Karen Reilly,Garth Reilly,9,NA,NA,NA,NA,TRUE
+13130,Sally Verheul,Russell Brown,9,NA,NA,NA,NA,TRUE
+NA,Terry Reilly,Russell Walker,9,NA,NA,NA,NA,TRUE
+5970,Peter Fane,Steve Ison,9,NA,1/06/2019,NA,NA,TRUE
+NA,Scott Gibson,Steven Brinkley,9,NA,NA,NA,NA,TRUE
+NA,Larissa Cleverly,Ted Hall,9,NA,14/04/2019,NA,NA,TRUE
+8921,Gary Thomas,Kathryn Thomas,9,NA,NA,NA,NA,TRUE
+NA,Paul Van Koesveld,Tim McNamara,9,NA,14/04/2019,NA,NA,TRUE
+NA,Ian Purves,Warren Lopez,9,NA,14/04/2019,NA,NA,TRUE
+5966,Jenny Baldry,Warren Lopez,9,NA,1/06/2019,NA,NA,TRUE
+NA,Peter Garnett,Warren Lopez,9,NA,NA,NA,NA,TRUE
+NA,Ries Diaz,Will Bryant,9,NA,8/08/2020,NA,NA,TRUE
+NA,Dianne Langan,Adrian Di Cesare,10,NA,14/04/2019,NA,NA,TRUE
+NA,Margaret Dodd,Albert Cobb,10,NA,23/05/2021,NA,NA,TRUE
+NA,Carl Vandergraaf,Brant Burrow,10,NA,14/04/2019,NA,NA,TRUE
+13124,Cheryl Bretag,Mark Bretag,10,NA,24/08/2019,NA,NA,TRUE
+8059,Janet Small,Bruce Sherlock,10,NA,1/06/2019,NA,NA,TRUE
+NA,Lindsey Gilbert,Chris Latham,10,NA,23/05/2021,NA,NA,TRUE
+NA,Ian Cooper,Elizabeth Pratt,10,NA,23/05/2021,NA,NA,TRUE
+11992,Geoff Horsnell,Geoff Baggett,10,NA,23/05/2021,NA,NA,TRUE
+NA,Patricia Ashton,Gerry Foster,10,NA,23/05/2021,NA,NA,TRUE
+NA,Allan Newhouse,Ian Castell-Brown,10,NA,14/04/2019,NA,NA,TRUE
+NA,Stacey Freedman,Jennifer Stevens,10,NA,20/03/2021,NA,NA,TRUE
+9413,Jil Parker,Judy Greenidge,10,NA,13/06/2021,NA,NA,TRUE
+6806,Brian Graber,Julia Ong,10,NA,NA,NA,NA,TRUE
+NA,Bruce Graham,Kim Bentley,10,NA,NA,NA,NA,TRUE
+NA,Darren Forbes,Malcolm Lewis,10,NA,NA,NA,NA,TRUE
+NA,Gay Robertson,Malcolm Lewis,10,NA,NA,NA,NA,TRUE
+NA,Louise Vandergraaf,Nikki Burrow,10,NA,14/04/2019,NA,NA,TRUE
+NA,Robert Bruce,Russell Murphy,10,NA,14/04/2019,NA,NA,TRUE
+12658,Susan Strath,Terry Reilly,10,NA,NA,NA,NA,TRUE
+5989,Trudy Carter,Clare Monger,11,NA,NA,NA,NA,TRUE
+NA,Stuart Mathieson,Colin Cook,11,NA,NA,NA,NA,TRUE
+NA,Emma Keast,David Hammond,11,NA,NA,NA,NA,TRUE
+NA,Janet Small,Elisabeth Woodhart O'farrell,11,NA,23/05/2021,NA,NA,TRUE
+12553,Angus Whitford,Erik Chen,11,NA,NA,NA,NA,TRUE
+13443,Kerri Francis,Fiona Mcnaughton,11,NA,NA,NA,NA,TRUE
+NA,Allan Newhouse,Graeme Ison,11,NA,23/05/2021,NA,NA,TRUE
+NA,Anjie Lees,Jacob Chetcuti,11,NA,14/04/2019,NA,NA,TRUE
+NA,Tammy Ven Dange,James Walsh,11,NA,14/04/2019,NA,NA,TRUE
+13313,Erroll Holm,Josephine Holman,11,NA,NA,NA,NA,TRUE
+12567,Rebecca Gates,Kiara Chen,11,NA,NA,NA,NA,TRUE
+5649,Ellis Kirkman,Carol Kirkman,11,NA,NA,NA,NA,TRUE
+NA,Dianne Langan,Lis O'farrell,11,NA,3/08/2019,NA,NA,TRUE
+NA,Russell Brown,Malcolm Lewis,11,NA,23/05/2021,NA,NA,TRUE
+12099,Susan Strath,Marilyn Golden,11,NA,NA,NA,NA,TRUE
+NA,Dianne Mason,Warren Mason,11,NA,23/05/2021,NA,NA,TRUE
+13430,Lynne Donohoe,Nicola Binns,11,NA,NA,NA,NA,TRUE
+12565,Pam Greene,Petra Salna,11,NA,NA,NA,NA,TRUE
+12699,Merle Lovelock,Rowland Jones,11,NA,NA,NA,NA,TRUE
+NA,David Hammond,Thomas Hammond,11,NA,NA,NA,NA,TRUE
+13459,Karen Schofield,Trudy Carter,11,NA,NA,NA,NA,TRUE
+NA,Matthew Bretag,Warren Bretag,11,NA,NA,NA,NA,TRUE
+5852,Kate Wells,Gary Wells,11,NA,NA,NA,NA,TRUE
+13376,Kerrell-Ann Hack,Yvonne Woolsey,11,NA,NA,NA,NA,TRUE
+NA,Jonathan Papalia,Annie Lloyd-Green,12,NA,14/04/2019,NA,NA,TRUE
+NA,Christine Berridge,Bob Berridge,12,NA,NA,NA,NA,TRUE
+NA,Elisabeth Woodhart O'farrell,Debbie Muscat,12,NA,8/08/2020,NA,NA,TRUE
+NA,David Hammond,Areti Hammond,12,NA,23/05/2021,NA,NA,TRUE
+NA,Maria Hammond,Thomas Hammond,12,NA,14/04/2019,NA,NA,TRUE
+NA,Shumin Lin,Jessica Amrein,12,NA,NA,NA,NA,TRUE
+NA,Kara Stokes,Lachlan Stokes,12,NA,NA,NA,NA,TRUE
+NA,Nicole Szabason,Malcolm Lewis,12,NA,14/04/2019,NA,NA,TRUE
+NA,Tracy Hillman,Stephen McCormac,12,NA,23/06/2019,NA,NA,TRUE
+NA,Anjie Lees,Thomas Hammond,12,NA,23/05/2021,NA,NA,TRUE
+12568,Charlotte Stimson,Amber Chen,13,nothing in last 2 years,NA,NA,NA,TRUE
+13080,Simon Andreou,Vanessa Andreou,13,nothing in last 2 years,NA,NA,NA,TRUE
+8974,Dave Salter,Bill Martin,13,9,14/04/2019,NA,NA,TRUE
+13288,Sean Ryce,Boden Wilkinson,13,nothing in last 2 years,NA,NA,NA,TRUE
+12615,James fergus,Campbell Fergus,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Kylie Read,Chris Farthing,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Tylor Shorter,Conner Garbutt,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Brendan Cowled,Tom Cowled,13,nothing in last 2 years,1/06/2019,NA,NA,TRUE
+NA,Peter Dorsman,William Dorsman,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Gavin James,Edward Daniel,13,nothing in last 2 years,2/05/2021,NA,NA,TRUE
+NA,Scott Elliott,Lara Elliott,13,nothing in last 2 years,1/06/2019,NA,NA,TRUE
+12566,Jenny Liu Ward,Jack Ward,13,9,NA,NA,NA,TRUE
+NA,Joel Newton,Jacob Mako,13,nothing in last 2 years,23/06/2019,NA,NA,TRUE
+NA,Tom Maker,Jacob Mako,13,nothing in last 2 years,14/04/2019,NA,NA,TRUE
+NA,Maximilian Mako,Jai Strbik,13,nothing in last 2 years,14/04/2019,NA,NA,TRUE
+5688,Bill Martin,Len Turner,13,NA,24/08/2019,NA,NA,TRUE
+NA,Lachie Wrenford,Liam Cahill,13,nothing in last 2 years,14/04/2019,NA,NA,TRUE
+NA,Frank Pancer,Liz Angel,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Viliam Mako,Turia Mako,13,nothing in last 2 years,23/06/2019,NA,NA,TRUE
+NA,Carolyn Williams,Margi Bohm,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Alex Martin,Willam Martin,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Tom Maker,Maximilian Mako,13,nothing in last 2 years,23/06/2019,NA,NA,TRUE
+NA,Megan Donahue,Norm Lenehan,13,nothing in last 2 years,27/04/2019,NA,NA,TRUE
+NA,Bethany Tate,Peter Knott,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Albert Laurendet,Ross Bingle,13,nothing in last 2 years,NA,NA,NA,TRUE
+5784,Peter Sigal,Cara Sigal,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Charlotte Stimson,Zoe Stimson,13,NA,NA,NA,NA,TRUE
+NA,Fiona Straffon,Michael Straffon,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Lily Straffon,James Straffon,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Jill Greenwood,Susan Strath,13,nothing in last 2 years,14/04/2019,NA,NA,TRUE
+12571,Sean Ryce,Thomas Ryce,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Warren Molloy,William Martin,13,nothing in last 2 years,NA,NA,NA,TRUE
+NA,Tarren Elliott,Zoe Cowled,13,nothing in last 2 years,1/06/2019,NA,NA,TRUE
+12572,Elizabeth Dietricks,Zoe Stimson,13,nothing in last 2 years,NA,NA,NA,TRUE
+8101,Craig Kentwell,Adam Scott,NA,NA,NA,NA,NA,TRUE
+10157,Alan Voges,Albert Laurendet,NA,NA,NA,NA,NA,TRUE
+11241,Ben Rake,Alex Nielson,NA,NA,NA,NA,NA,TRUE
+8099,Alex Repetto,Alex True,NA,NA,NA,NA,NA,TRUE
+12008,Simone Allchin,Russell Allchin,NA,NA,NA,NA,NA,TRUE
+5417,Greg Archibald,Julia Archibald,NA,NA,NA,NA,NA,TRUE
+6018,Luke Boler,Arnold Graf,NA,NA,NA,NA,NA,TRUE
+11197,Valentino Selvarajah,Ben Gabrial,NA,NA,NA,NA,NA,TRUE
+6040,Jason Cooper,Bob Turner,NA,NA,NA,NA,NA,TRUE
+12108,Tony d'Andreti,Brad Hughes,NA,NA,NA,NA,NA,TRUE
+5951,Craig Ellis,Carmen Ellis,NA,NA,NA,NA,NA,TRUE
+5466,Ian Castell-Brown,Carolyn Williams,NA,NA,NA,NA,NA,TRUE
+12137,Dorothy Price,Christine Simmat,NA,NA,NA,NA,NA,TRUE
+8926,Stephen Shelley,Clare McCrory,NA,NA,NA,NA,NA,TRUE
+8997,Jenny Baldry,Clayton Norman,NA,NA,NA,NA,NA,TRUE
+9806,Jason Cooper,Carmen Cooper,NA,NA,NA,NA,NA,TRUE
+5902,Laura / Adam,Cowderoy / Walton,NA,NA,NA,NA,NA,TRUE
+8778,Leo Powell,Craig Dodd,NA,NA,NA,NA,NA,TRUE
+9423,Alanna Ewin,Danielle Seisun,NA,NA,NA,NA,NA,TRUE
+6650,Roslyn Hickson,Danny Robson,NA,NA,NA,NA,NA,TRUE
+5612,Geoff Holloway,Darren Keen,NA,NA,NA,NA,NA,TRUE
+11156,Dave Salter,Dave James,NA,NA,NA,NA,NA,TRUE
+6028,Graham Matts,Dave James,NA,NA,NA,NA,NA,TRUE
+5499,Leah Crockett,David Hobbs,NA,NA,NA,NA,NA,TRUE
+5869,Liz Wilson,David Lunn,NA,NA,NA,NA,NA,TRUE
+5712,Troy Myers,David Raymond,NA,NA,NA,NA,NA,TRUE
+10245,Stephen Shelley,David Raymond,NA,NA,NA,NA,NA,TRUE
+5667,Ann Lloyd Green,Dianne Chellew,NA,NA,NA,NA,NA,TRUE
+12219,Marni Smart,Dianne Chellew,NA,NA,NA,NA,NA,TRUE
+11222,Gary Dingley,Bronwen Dingley,NA,NA,NA,NA,NA,TRUE
+12141,Charlie Morgan,Dodge Newton,NA,NA,NA,NA,NA,TRUE
+5665,Bert  Lloyd,Don Rowston,NA,NA,NA,NA,NA,TRUE
+5513,Tim Dodd,Don Rowston,NA,NA,NA,NA,NA,TRUE
+5518,Darren Drewsen,Sarah Zeller,NA,NA,NA,NA,NA,TRUE
+5519,Darren Drewsen,Rob Higgenbotham,NA,NA,NA,NA,NA,TRUE
+5872,Shaun Wilson,Eli Newton,NA,NA,NA,NA,NA,TRUE
+5834,Clare Lutton,Elisabeth van Leeuwen,NA,NA,NA,NA,NA,TRUE
+8931,Trent Kitching,Elissa Kitchin,NA,NA,NA,NA,NA,TRUE
+5533,Ron Elliott,Carrie Elliott,NA,NA,NA,NA,NA,TRUE
+5530,Carolyn Elliott,Ron Elliott,NA,NA,NA,NA,NA,TRUE
+11967,Sarah O'Connell,Fiona Neill,NA,NA,NA,NA,NA,TRUE
+6823,John St Clair,Francesca Watts,NA,NA,NA,NA,NA,TRUE
+5961,Janet Oldham,Freiderike Welter,NA,NA,NA,NA,NA,TRUE
+8989,Stephen Newsome,Gary Henderson,NA,NA,NA,NA,NA,TRUE
+6709,Justin Channells,Gary Rake,NA,NA,NA,NA,NA,TRUE
+11939,Suzie Rhydderch,Gene Burns,NA,NA,NA,NA,NA,TRUE
+10689,Bruce Graham,Glenys Noble,NA,NA,NA,NA,NA,TRUE
+5563,Mark / Anton,Goddard/Jukich,NA,NA,NA,NA,NA,TRUE
+11972,Russell Walker,Graham Matts,NA,NA,NA,NA,NA,TRUE
+8850,Danielle Gray,Adam Gray,NA,NA,NA,NA,NA,TRUE
+5955,Brett Greenwood,Stuart Innes,NA,NA,NA,NA,NA,TRUE
+11245,Ross Bingle,Greg Archibald,NA,NA,NA,NA,NA,TRUE
+11973,Stephen Monger,Greg Smith,NA,NA,NA,NA,NA,TRUE
+12125,Paul Grundy,Greg Thompson,NA,NA,NA,NA,NA,TRUE
+5943,Kerry / Yanda,Hall / Nossiter,NA,NA,NA,NA,NA,TRUE
+5937,Cooper / Cody,Halligan / Marr,NA,NA,NA,NA,NA,TRUE
+8890,Caitlin Bradley,Hamish Bradley,NA,NA,NA,NA,NA,TRUE
+6019,Len / Sam,Hedges / Hedges,NA,NA,NA,NA,NA,TRUE
+9694,John Lockie,Helen Tongway,NA,NA,NA,NA,NA,TRUE
+5601,Dave / Jane,Hiatt /Hiatt,NA,NA,NA,NA,NA,TRUE
+5941,Stuart / Jay,Innes / Wilson,NA,NA,NA,NA,NA,TRUE
+11869,Suzie Rhydderch,Isabell Estorff,NA,NA,NA,NA,NA,TRUE
+6016,Shane / Stephen,Ison / Ison,NA,NA,NA,NA,NA,TRUE
+11859,Amber Chen,Jack Prime,NA,NA,NA,NA,NA,TRUE
+9693,Anne Moore,Jack Ward,NA,NA,NA,NA,NA,TRUE
+5463,Mick Carroll,Jack Ward,NA,NA,NA,NA,NA,TRUE
+5726,Sarah O'Connell,Jackie Ryan,NA,NA,NA,NA,NA,TRUE
+12126,Tasman Farrell,Jason Farrell,NA,NA,NA,NA,NA,TRUE
+11856,David Hammond,Jason Han,NA,NA,NA,NA,NA,TRUE
+9921,Stephen Shelley,Jason Horne,NA,NA,NA,NA,NA,TRUE
+9945,Mitchell Hughes,Jayden Newell,NA,NA,NA,NA,NA,TRUE
+9818,Peter Edney,Jennifer Broadbent,NA,NA,NA,NA,NA,TRUE
+11958,Clayton Norman,Jenny Baldry,NA,NA,NA,NA,NA,TRUE
+10155,Suzie  Rhydderch,Jenny Listberger,NA,NA,NA,NA,NA,TRUE
+8978,Steve Newsome,Jeremy Spear,NA,NA,NA,NA,NA,TRUE
+10656,Janet Small,Jill Ward,NA,NA,NA,NA,NA,TRUE
+11114,Jack Ward,Jim Buckland,NA,NA,NA,NA,NA,TRUE
+12188,Michael Kerr,Jim Buckland,NA,NA,NA,NA,NA,TRUE
+11588,Richard Barnes,Jo Holman,NA,NA,NA,NA,NA,TRUE
+5913,Tony Walker,John Greathead,NA,NA,NA,NA,NA,TRUE
+11228,Phil McDonald,John Leard,NA,NA,NA,NA,NA,TRUE
+5706,James Mumme,John Thearle,NA,NA,NA,NA,NA,TRUE
+9701,Adam Mills,Josh Delarue,NA,NA,NA,NA,NA,TRUE
+6825,"Gerry, Ben","K4 Greg,Jared",NA,NA,NA,NA,NA,TRUE
+5987,Mal Crossland,Karen Schofield,NA,NA,NA,NA,NA,TRUE
+5699,Tim McNamara,Kenji Ogawa,NA,NA,NA,NA,NA,TRUE
+6772,Yanda Nossiter,Kerry Hall,NA,NA,NA,NA,NA,TRUE
+11231,Kylie Young,Kim Young,NA,NA,NA,NA,NA,TRUE
+5963,Christine / Phillip,King / Newton,NA,NA,NA,NA,NA,TRUE
+6002,Geoff Holloway,Leigh Wright,NA,NA,NA,NA,NA,TRUE
+11959,Warren Molloy,Len Turner,NA,NA,NA,NA,NA,TRUE
+6922,Peter Murphy,Letitia Field,NA,NA,NA,NA,NA,TRUE
+9897,Ethan Neville,Liam Farrell,NA,NA,NA,NA,NA,TRUE
+8054,Roslyn Hickson,Louise Merrington,NA,NA,NA,NA,NA,TRUE
+5996,Mark Coulter,Luke Ommundson,NA,NA,NA,NA,NA,TRUE
+9407,Neil Crabb,Luke Ormmundsen,NA,NA,NA,NA,NA,TRUE
+5675,David / Greg,Lunn /Thompson,NA,NA,NA,NA,NA,TRUE
+11956,Neil Crabb,Lynley Mennell,NA,NA,NA,NA,NA,TRUE
+5679,Craig /  Alan,Mackey /Wilson,NA,NA,NA,NA,NA,TRUE
+10655,Debora Bachewich,Malcolm Macaulay,NA,NA,NA,NA,NA,TRUE
+5988,Elizabeth Dodd,Margaret Dodd,NA,NA,NA,NA,NA,TRUE
+11235,Dianne Chellew,Margaret Egan,NA,NA,NA,NA,NA,TRUE
+6655,Helen Tongway,Margi Bohm,NA,NA,NA,NA,NA,TRUE
+11177,Brett Worth,Mark Bryne,NA,NA,NA,NA,NA,TRUE
+6037,David Bloomfield,Martin Dearnley,NA,NA,NA,NA,NA,TRUE
+9804,Adrian Alston,Matthew Kennedy,NA,NA,NA,NA,NA,TRUE
+12220,Paul van Koesveld,Matthew Swann,NA,NA,NA,NA,NA,TRUE
+12107,Stephanie Vounou,Mel Currie,NA,NA,NA,NA,NA,TRUE
+10077,Russell Murphy,Melissa Hartlipp,NA,NA,NA,NA,NA,TRUE
+11366,Paul Hartlipp,Melissa Hartlipp,NA,NA,NA,NA,NA,TRUE
+6900,Raewyn Duffy,Merridy Huxley,NA,NA,NA,NA,NA,TRUE
+8777,Jason Cooper,Michael Mueller,NA,NA,NA,NA,NA,TRUE
+6872,Carl Duggan,Michael New,NA,NA,NA,NA,NA,TRUE
+11181,Max Morgan,Mitchell Cronin,NA,NA,NA,NA,NA,TRUE
+12222,Jamie McCrudden,Montannah Murray,NA,NA,NA,NA,NA,TRUE
+5910,Fiona / Kirsten,Montgomerie / Nicolle,NA,NA,NA,NA,NA,TRUE
+6039,Michael / Rob,Mueller / Vallis,NA,NA,NA,NA,NA,TRUE
+12185,Darren Lee,Nadya Mikhailova,NA,NA,NA,NA,NA,TRUE
+8849,Cindy Thompson,Neal Connelly,NA,NA,NA,NA,NA,TRUE
+6898,Lisa Healey,Neville Bradshaw,NA,NA,NA,NA,NA,TRUE
+5793,Jeremy Spear,Nigel Colless,NA,NA,NA,NA,NA,TRUE
+11993,Tim Hookins,Oliver Hookins,NA,NA,NA,NA,NA,TRUE
+10150,Roslyn Hickson,Paul Hartlipp,NA,NA,NA,NA,NA,TRUE
+8108,Ron Sheather,Paul Reardon,NA,NA,NA,NA,NA,TRUE
+6821,Phillip Geddes,Paul van Koesveld,NA,NA,NA,NA,NA,TRUE
+5998,Gary Finnigan,Peri Liddell,NA,NA,NA,NA,NA,TRUE
+5532,Craig Elliott,Peter Bakewell,NA,NA,NA,NA,NA,TRUE
+8975,Andrew Pratley,Peter Edney,NA,NA,NA,NA,NA,TRUE
+5891,Ian Castell Brown,Peter Fane,NA,NA,NA,NA,NA,TRUE
+8058,Jason Redlich,Peter Fane,NA,NA,NA,NA,NA,TRUE
+5438,Ken Bellette,Peter Fane,NA,NA,NA,NA,NA,TRUE
+9695,Ron Sheather,Peter Murphy,NA,NA,NA,NA,NA,TRUE
+12191,Paul Byrnes,Ray Baxter,NA,NA,NA,NA,NA,TRUE
+8694,Joan Morison,Richard Barnes,NA,NA,NA,NA,NA,TRUE
+5622,Tony Hystek,Richard Robinson,NA,NA,NA,NA,NA,TRUE
+8106,Bruce Goodall,Richard Robinson,NA,NA,NA,NA,NA,TRUE
+6051,Gareth Baker,Rick Pacey,NA,NA,NA,NA,NA,TRUE
+5997,Genelle Pacey,Rick Pacey,NA,NA,NA,NA,NA,TRUE
+6799,Robert Marshman,Rob Burns,NA,NA,NA,NA,NA,TRUE
+8973,Lawrie Kenyon,Rob Chant,NA,NA,NA,NA,NA,TRUE
+5686,Scott Harris,Robert Burns,NA,NA,NA,NA,NA,TRUE
+9411,David Slater,Robert Collins,NA,NA,NA,NA,NA,TRUE
+8695,Gary Hancock,Robert Walker,NA,NA,NA,NA,NA,TRUE
+6025,Janet Abraham,Robyn Hankin,NA,NA,NA,NA,NA,TRUE
+5960,Kevin Newton,Rod Smith,NA,NA,NA,NA,NA,TRUE
+6869,Greg Archibald,Rowland Jones,NA,NA,NA,NA,NA,TRUE
+5770,Margaret/Kay,Roye/Smith,NA,NA,NA,NA,NA,TRUE
+8060,Kristen Kosmala,Rozetta Payne,NA,NA,NA,NA,NA,TRUE
+11589,Paul Schulz,Rozetta Payne,NA,NA,NA,NA,NA,TRUE
+11954,Anjie Lees,Ruby Gamble,NA,NA,NA,NA,NA,TRUE
+8092,Albert Laurendet,Sam Janic,NA,NA,NA,NA,NA,TRUE
+11193,David Little,Sam Janic,NA,NA,NA,NA,NA,TRUE
+8789,Jackie Ryan,Sarah O'Connell,NA,NA,NA,NA,NA,TRUE
+9808,Paul Schulz,Sarah Williams,NA,NA,NA,NA,NA,TRUE
+8687,Graham Matts,Scott Harris,NA,NA,NA,NA,NA,TRUE
+10688,Jason Rantall,Scott Hunter,NA,NA,NA,NA,NA,TRUE
+9254,Gary Rake,Shane Lund,NA,NA,NA,NA,NA,TRUE
+5708,Peter Murphy,Shane McMullin,NA,NA,NA,NA,NA,TRUE
+9425,Tony Hystek,Simon Stenhouse,NA,NA,NA,NA,NA,TRUE
+9415,Stephanie Coram,Siobhan Wilson,NA,NA,NA,NA,NA,TRUE
+5991,Greg / Peter,Smith / White,NA,NA,NA,NA,NA,TRUE
+5984,David / Troy,Spencer / Spencer,NA,NA,NA,NA,NA,TRUE
+9901,Julie Cammell,Spencer Milburn,NA,NA,NA,NA,NA,TRUE
+5797,Barbara/Warren,Steadman / Steadman,NA,NA,NA,NA,NA,TRUE
+8992,Jason Cooper,Stephen Paget,NA,NA,NA,NA,NA,TRUE
+9421,Steve Newsome,Stephen Shelley,NA,NA,NA,NA,NA,TRUE
+13458,Robyn Bingle,Steve Dawson,NA,NA,NA,NA,NA,TRUE
+5985,Paul Carter,Steve Monger,NA,NA,NA,NA,NA,TRUE
+9817,Craig Ellis,Steve Newsome,NA,NA,NA,NA,NA,TRUE
+11223,Allan Keith,Sue Brown,NA,NA,NA,NA,NA,TRUE
+12124,Ann Lloyd-Green,Sue Muller-Hawkins,NA,NA,NA,NA,NA,TRUE
+12221,Rob Hardy,Susan Strath,NA,NA,NA,NA,NA,TRUE
+11192,Dave Smith,Suzie Rhydderch,NA,NA,NA,NA,NA,TRUE
+11866,Carolyn Williams,Tash Ziviani,NA,NA,NA,NA,NA,TRUE
+9928,Elisabeth van Leeuwen,Terry Reilly,NA,NA,NA,NA,NA,TRUE
+8702,David Hammond,Tim Binns,NA,NA,NA,NA,NA,TRUE
+9941,Steve Newsome,Tim Hookins,NA,NA,NA,NA,NA,TRUE
+11852,Peter Ryce,Todd Mowbray,NA,NA,NA,NA,NA,TRUE
+9920,Jarrod Williams,Tom Brown,NA,NA,NA,NA,NA,TRUE
+12123,Geoff Holloway,Tom Jones,NA,NA,NA,NA,NA,TRUE
+8683,Tony Hystek,Tom Simmat,NA,NA,NA,NA,NA,TRUE
+6729,David Hammond,Tony D'Andreti,NA,NA,NA,NA,NA,TRUE
+10085,Dion Carter,Tony Ireland,NA,NA,NA,NA,NA,TRUE
+11941,Scott MacWilliam,Tony Mee,NA,NA,NA,NA,NA,TRUE
+12119,Rick Leach,Tony Melino,NA,NA,NA,NA,NA,TRUE
+9911,Justin Paine,Tony Walker,NA,NA,NA,NA,NA,TRUE
+5967,Greg Appleyard,Trevor Williamson,NA,NA,NA,NA,NA,TRUE
+8843,Greg Smith,Trudi Nugent,NA,NA,NA,NA,NA,TRUE
+6657,Gareth Baker,Vicki Longmuir,NA,NA,NA,NA,NA,TRUE
+6031,Adrian / Stuart,Wicks / Young,NA,NA,NA,NA,NA,TRUE
